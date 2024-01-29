@@ -53,7 +53,7 @@ jobs:
       - name: Install Node.js dependencies
         run: |
           npm ci
-          npm intall postcss-cli
+          npm install postcss-cli
 
       - name: Build with Hugo
         env:
