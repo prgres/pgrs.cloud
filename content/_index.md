@@ -1,5 +1,5 @@
 ---
 author: Maciej Wiecek
-title: PGRS
+title: prgs.cloud
 date: 2024-01-29
 ---

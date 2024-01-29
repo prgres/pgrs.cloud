@@ -64,7 +64,7 @@ jobs:
           BASE_URL: "${{ steps.pages.outputs.base_url }}/"
         run: |
           echo "BASE_URL: \"${BASE_URL}\""
-          hugo --gc --minify --baseURL "${BASE_URL}"
+          hugo --gc --baseURL "${BASE_URL}"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
