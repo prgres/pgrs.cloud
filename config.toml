@@ -1,4 +1,3 @@
-baseurl = "https://pgrs.cloud"
 metaDataFormat = "yaml"
 title = "pgrs.cloud"
 theme = "blist"
